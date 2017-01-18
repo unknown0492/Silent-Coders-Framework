@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding="assets/global/plugins/angularjs/plugins/angular-file-upload/|assets/global/plugins/ckeditor/samples/|assets/global/plugins/dropzone/|assets/global/plugins/fullcalendar/demos/php/|assets/global/plugins/jcrop/" kind="src" path=""/>
+	<buildpathentry kind="src" path="assets/global/plugins/ckeditor/samples"/>
+	<buildpathentry kind="src" path="assets/global/plugins/angularjs/plugins/angular-file-upload"/>
+	<buildpathentry kind="src" path="assets/global/plugins/dropzone"/>
+	<buildpathentry kind="src" path="assets/global/plugins/jcrop"/>
+	<buildpathentry kind="src" path="assets/global/plugins/fullcalendar/demos/php"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

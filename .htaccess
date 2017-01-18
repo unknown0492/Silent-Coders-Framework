@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^([^/]*)\.html$ /sc_framework1/index.php?action=$1 [L]
+ErrorDocument 404 /sc_framework1/404error.php
+
+Options -Indexes 
+
